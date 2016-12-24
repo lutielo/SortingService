@@ -1,0 +1,2 @@
+class SortingServiceException(Exception):
+    pass
